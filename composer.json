@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezxmlinstaller-ls",
+    "name": "se7enxweb/ezxmlinstaller-ls",
     "description": "The eZ XML Installer extension is a plattform to define proccesses for eZ Publish and execute them.",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0",
